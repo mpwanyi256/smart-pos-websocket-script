@@ -1,0 +1,17 @@
+{
+  "name": "smart-pos-ws-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wsScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node wsScript.js",
+    "uninstall": "node wsScript.js uninstall"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-windows": "^1.0.0-beta.8"
+  }
+}
